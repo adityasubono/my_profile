@@ -1,0 +1,22 @@
+.foto {
+  width: 350px;
+  height: 200px;
+  border-radius: 115px;
+}
+.jumbotron img {
+  width: 200px;
+  border: 5px solid #545b62;
+}
+
+hr {
+  width: 200px;
+  border-top: 3px solid black;
+}
+
+section {
+  min-height: 600px;
+}
+
+.porfolio {
+  background-color: #c6c8ca;
+}
