@@ -1,0 +1,9 @@
+/* Global Classes */
+.title-text {
+  font: normal bold 50px/72px var(--roboto);
+}
+
+.text-uppercase {
+  text-transform: uppercasess;
+}
+/* 51:15*/
